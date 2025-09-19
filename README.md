@@ -1,5 +1,7 @@
 **📝 NoteMaster**
 
+**Live Demo** : [Click Here](https://vinayakgoyal2208.github.io/note-master/)
+
 Capture, Organize, and Master Your Notes
 
 NoteMaster is a simple yet powerful note-taking web app built with HTML, CSS, and JavaScript. It helps you quickly write, resize, and manage notes — with auto-save built in so you never lose your work.
@@ -41,3 +43,6 @@ Add a note and start typing.
 Resize the editor freely to match your style.
 
 Close the browser or reopen later — your notes are auto-saved.
+
+<img width="1910" height="922" alt="image" src="https://github.com/user-attachments/assets/f1e387c2-d5c5-466c-bedd-ecbcfa811954" />
+
